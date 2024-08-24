@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710152295683",
+    "project_id": "cogniosis-app",
+    "storage_bucket": "cogniosis-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710152295683:android:e4cd479cd08f74798e8536",
+        "android_client_info": {
+          "package_name": "com.example.cogniosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710152295683-5nipi2shv2f0k95lhmud4o7n07dd1bq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cogniosis",
+            "certificate_hash": "6beaef41fd5c6135283a04fd8fe184629c6154f2"
+          }
+        },
+        {
+          "client_id": "710152295683-nql3fgbjanet5ct4uidph0gcneuo3m44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqRkALOnjJIv5NgFAnY7mUxx4aGHKHT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710152295683-nql3fgbjanet5ct4uidph0gcneuo3m44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
