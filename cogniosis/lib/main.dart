@@ -19,7 +19,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: FirebaseOptions(
-          apiKey: 'AIzaSyCfas5dJ6A4HYtGhkQv8jBCViF64EBu4eM',
+          apiKey: 'Your API Key',
           appId: '1:710152295683:android:e4cd479cd08f74798e8536',
           messagingSenderId: '710152295683',
           projectId: 'cogniosis-app',
